@@ -39,11 +39,11 @@ bash start-file-manager
 <br/>
 
 ## How to use ~> default port (8003)
-### mobile browser
+### # mobile browser
 ```shell
 http://localhost:8003
 ```
-### outside mobile phone
+### # outside mobile phone
 #### 1. turn on tethring / wifi
 #### 2. check your local IP
 ```shell
