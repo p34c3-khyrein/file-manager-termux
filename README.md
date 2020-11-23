@@ -1,33 +1,52 @@
+# Termux File Manager
 ![Screenshot](img/banner.JPG)
+
 ---
 
-# Sosial Media
+## Sosial Media
 [![Custom badge](https://img.shields.io/badge/whatsapp-%23C0C0C0.svg?&style=for-the-badge&logo=whatsapp&logoColor=#25D366)](https://wa.me/6282214252455/)
 
-# Software
+## Software
 [![Custom badge](https://img.shields.io/badge/termux%20-%23000000.svg?&style=for-the-badge&logo=Termumx&logoColor=white)](https://termux.com/)
 
 ## Requirements
 - PHP 5.5.0 or higher.
 - Fileinfo, iconv, zip, tar and mbstring extensions are strongly recommended.
 
-# Support
+## Support
 Termux File Manager has tested on:
 * Termux
 
-# Instalation
+## Instalation
 ```shell
 pkg install git -y && pkg install php -y && cd && git clone https://github.com/p34c3-khyrein/file-manager-termux .filemanager && wget https://raw.githubusercontent.com/p34c3-khyrein/download/main/termux-file-manager/start-file-manager && chmod 755 start-file-manager
 ```
 
-# How to use
-## default
+## Running File Manager (First!)
+### default
 ```shell
 ./start-file-manager
 ```
-## or
+### or
 ```shell
 bash start-file-manager
+```
+
+## How to use ~> default port (8003)
+### mobile browser
+```shell
+http://localhost:8003
+```
+### outside mobile phone
+#### 1. turn on tethring / wifi
+#### 2. check your local IP
+```shell
+ifconfig
+```
+inside **wlan0**, look at the IP number on **inet**, it is your local ip.
+#### 3. open outside
+```shell
+http://<YOUR LOCAL IP>:8003
 ```
 
 ### :loudspeaker: Features
