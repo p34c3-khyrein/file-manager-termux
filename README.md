@@ -22,6 +22,8 @@ Termux File Manager has tested on:
 pkg install git -y && pkg install php -y && cd && git clone https://github.com/p34c3-khyrein/file-manager-termux .filemanager && wget https://raw.githubusercontent.com/p34c3-khyrein/download/main/termux-file-manager/start-file-manager && chmod 755 start-file-manager
 ```
 
+<br/>
+
 ## Running File Manager (First!)
 ### default
 ```shell
@@ -31,6 +33,8 @@ pkg install git -y && pkg install php -y && cd && git clone https://github.com/p
 ```shell
 bash start-file-manager
 ```
+
+<br/>
 
 ## How to use ~> default port (8003)
 ### mobile browser
@@ -48,6 +52,8 @@ inside **wlan0**, look at the IP number on **inet**, it is your local ip.
 ```shell
 http://<YOUR LOCAL IP>:8003
 ```
+
+<br/>
 
 ### :loudspeaker: Features
 - :cd: Open Source, light and extremely simple
