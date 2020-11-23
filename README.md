@@ -3,11 +3,16 @@
 
 ---
 
+## My Information
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p34c3-khyrein&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=p34c3-khyrein&theme=blue-green)
+
 ## Sosial Media
 [![Custom badge](https://img.shields.io/badge/whatsapp-%23C0C0C0.svg?&style=for-the-badge&logo=whatsapp&logoColor=#25D366)](https://wa.me/6282214252455/)
 
 ## Software
 [![Custom badge](https://img.shields.io/badge/termux%20-%23000000.svg?&style=for-the-badge&logo=Termumx&logoColor=white)](https://termux.com/)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 ## Requirements
 - PHP 5.5.0 or higher.
