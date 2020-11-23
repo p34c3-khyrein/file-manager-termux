@@ -1,5 +1,5 @@
 # Termux File Manager
-![Screenshot](img/banner.JPG)
+![Screenshot](img/1.jpg) ![Screenshot](img/2.jpg)
 
 ---
 
