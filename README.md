@@ -30,7 +30,7 @@ pkg install git -y && pkg install php -y && cd && git clone https://github.com/p
 bash start-file-manager
 ```
 
-### :loudspeaker: Features ssss
+### :loudspeaker: Features
 - :cd: Open Source, light and extremely simple
 - :iphone: Mobile friendly view for touch devices
 - :information_source: Basic features likes Create, Delete, Modify, View, Quick Preview, Download, Copy and Move files 
