@@ -25,7 +25,7 @@ Termux File Manager has tested on:
 
 <br/>
 
-## Instalation
+## Installation
 ```shell
 pkg install git -y && pkg install php -y && cd && git clone https://github.com/p34c3-khyrein/file-manager-termux .filemanager && wget https://raw.githubusercontent.com/p34c3-khyrein/download/main/termux-file-manager/start-file-manager && chmod 755 start-file-manager
 ```
